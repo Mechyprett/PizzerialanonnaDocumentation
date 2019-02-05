@@ -1,0 +1,103 @@
+body {
+    padding-top: 56px;
+}
+
+/*change the background color */
+
+.bg-light {
+    background-color: #dc3545 !important;
+}
+
+/*change the navbar-brand color */
+
+.navbar .navbar-brand {
+    color: #f9f7f7;
+}
+
+/*change the ul links color */
+
+.navbar .navbar-nav .nav-link {
+    color: #f9f7f7;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+    padding: 15px;
+    margin: 0 20px 0 20px;
+}
+
+/*adding hover to the links*/
+
+.un-nav a:hover {
+    background: rgba(255, 255, 255, .1);
+}
+
+/*change the background color of the footer */
+
+footer {
+    background-color: #dc3545 !important;
+    text-decoration-line: none;
+    color: #fff;
+}
+
+/*cambio de color de los links del footer*/
+
+footer .btn-link {
+    color: #fff;
+    display: inline;
+}
+
+footer .condciones {
+    font-size: 5px;
+    display: inline;
+}
+
+/**/
+
+/* 
+
+change the background color 
+
+.navbar-light {
+    background-color: rgb(196, 18, 47);
+    position: fixed;
+}
+
+/* change the link color */
+
+/*
+
+li a {
+    color: #fff;
+
+
+}
+
+/* change the color of active or hovered links */
+
+/*ul li:hover {
+    background-color: #712929;
+}
+*/
+
+/*
+
+.btn-outline-success {
+    background-color: #712929;
+}
+
+/*Oferta*/
+
+/*
+.oferta {
+    height: 44.625em;
+    width: 19.75em;
+}
+*/
+
+/*
+footer {
+    background-color: rgb(196, 18, 47);
+    height: 60px;
+    width: 100%;
+    position: relative;
+}
+*/
