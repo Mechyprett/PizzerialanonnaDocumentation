@@ -47,12 +47,39 @@ main {
     margin: 10% 5% 2% 5%;
 }
 
+/******BOTON DE COMPRAR OFERTA INDEX******/
+.btn-dark {
+    background-color: #c4122f;
+    border-color: #326b32;
+    /*Posicion del boton*/
+    margin: 58% 50% 0 -18%;
+    position: justify;
+}
+
+.btn-dark a {
+    color: #fff;
+}
+
+.btn-dark a:hover {
+    background: #326b32;
+}
 
 
 
 img {
     float: left;
+    position: justify;
+
 }
+
+/****************************SLIDE***********************/
+.slide {
+
+
+    margin-top: -80%;
+
+}
+
 
 /****************************FOOTER*********************************/
 
@@ -131,7 +158,7 @@ hr {
     display: block;
 }
 
-/*******************************************************/
+/*******************HOVER VERDE DEL MENU************************************/
 .caja {
     position: relative;
     width: 50%;
@@ -172,6 +199,8 @@ hr {
     text-align: center;
 }
 
+/*********************************************************************/
+/*********************************************************************/
 
 
 /*EN CASO DE USARSE IFRAME PARA EL FOOTER Y EVITAR  REESCRIBIRLO*/
