@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Pepperoni",
+        "type": "pizza",
+        "description": "test description",
+        "price": 495
+    },
+    {
+        "id": 2,
+        "name": "Pizza Jamon",
+        "type": "pizza",
+        "description": "test description",
+        "price": 495
+    },
+    {
+        "id": 3,
+        "name": "Pizza Sorrentina",
+        "type": "pizza",
+        "description": "test description",
+        "price": 495
+    },
+    {
+        "id": 4,
+        "name": "Pizza Aceitunas Negras",
+        "type": "pizza",
+        "description": "test description",
+        "price": 495
+    },
+    {
+        "id": 5,
+        "name": "Pizza Vegetarianas",
+        "type": "pizza",
+        "description": "test description",
+        "price": 495
+    },
+    {
+        "id": 6,
+        "name": "Slide Cheese",
+        "type": "aperitivo",
+        "description": "test description",
+        "price": 150
+    },
+    {
+        "id": 7,
+        "name": "Palitos Gratinados Ajo",
+        "type": "aperitivo",
+        "description": "test description",
+        "price": 195
+    },
+    {
+        "id": 8,
+        "name": "Mozzarella Marinara",
+        "type": "aperitivo",
+        "description": "test description",
+        "price": 195
+    },
+    {
+        "id": 9,
+        "name": "Pollini Regular",
+        "type": "aperitivo",
+        "description": "test description",
+        "price": 195
+    },
+    {
+        "id": 10,
+        "name": "Nacho Fiesta",
+        "type": "aperitivo",
+        "description": "test description",
+        "price": 195
+    },
+    {
+        "id": 11,
+        "name": "Te Frio",
+        "type": "bebidas",
+        "description": "test description",
+        "price": 95
+    },
+    {
+        "id": 12,
+        "name": "Refrescos Variedad",
+        "type": "bebidas",
+        "description": "test description",
+        "price": 95
+    },
+    {
+        "id": 12,
+        "name": "smoothie",
+        "type": "bebidas",
+        "description": "test description",
+        "price": 150
+    }
+]

@@ -52,8 +52,7 @@ main {
     background-color: #c4122f;
     border-color: #326b32;
     /*Posicion del boton*/
-    margin: 58% 50% 0 -18%;
-    position: justify;
+
 }
 
 .btn-dark a {
@@ -66,20 +65,15 @@ main {
 
 
 
-img {
-    float: left;
-    position: justify;
-
-}
 
 /****************************SLIDE***********************/
-.slide {
 
+#carouselExampleIndicators {
 
-    margin-top: -80%;
+    width: 55rem;
 
+    margin: -60% 0 0 28%;
 }
-
 
 /****************************FOOTER*********************************/
 
@@ -199,7 +193,49 @@ hr {
     text-align: center;
 }
 
-/*********************************************************************/
+/****************************OFERTAS  cajas*****************************************/
+.carta {
+    opacity: 1;
+    display:block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    
+}
+
+.medio {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.Of-1:hover .carta {
+    opacity: 0.3;
+}
+
+.Of-1:hover .medio {
+    opacity: 1;
+}
+
+.texto-o {
+    background-color: #326b32;
+    color: #fff;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+
+.btn-darki {
+    background-color: #326b32;
+    color: #f9f7f7;
+
+}
+
 /*********************************************************************/
 
 
